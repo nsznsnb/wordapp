@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: wordapp.gui.MainFrame
+Class-Path: jdbc\postgresql-42.2.9.jar
+
